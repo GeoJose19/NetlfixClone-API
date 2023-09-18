@@ -171,6 +171,7 @@ body {
   .featured .featured__description {
     max-width: 350px;
     font-weight: 400;
+    padding-top: 40px;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.45);
     z-index: 10;
   }
